@@ -1,3 +1,10 @@
+## To-dos
+
+- [ ] Organize a routing system
+- [ ] Add signin and signup features
+- [ ] Create a sample exercise page, if logged in
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
