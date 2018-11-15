@@ -1,6 +1,6 @@
 ## To-dos
 
-- [ ] Organize a routing system
+- [x] Organize a routing system
 - [ ] Add signin and signup features
 - [ ] Create a sample exercise page, if logged in
 
