@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "diff": "^3.5.0",
+    "diff2html": "^2.5.0",
     "query-string": "^6.2.0",
     "react": "^16.6.1",
     "react-cookie": "^3.0.4",
